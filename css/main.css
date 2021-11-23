@@ -1,0 +1,30 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #87BAC3;
+  font-weight: bold;
+}
+
+#testimonial {
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+footer {
+  background: url(../img/codMobile.jpg);
+
+}
+.logo {
+    height: 100px;
+    margin-top: 20px;
+}
+.fab {
+    color: #ffffff ;
+    font-size: 30px;
+    margin: 0 10px;
+}
